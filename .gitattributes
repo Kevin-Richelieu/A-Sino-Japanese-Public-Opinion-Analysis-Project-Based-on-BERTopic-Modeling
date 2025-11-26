@@ -10,3 +10,7 @@
 models/*.bin filter=lfs diff=lfs merge=lfs -text
 models/*.h5 filter=lfs diff=lfs merge=lfs -text
 results/csv/*.csv filter=lfs diff=lfs merge=lfs -text
+追踪所有.bin文件 filter=lfs diff=lfs merge=lfs -text
+追踪所有.h5文件 filter=lfs diff=lfs merge=lfs -text
+追踪所有.msgpack文件 filter=lfs diff=lfs merge=lfs -text
+追踪所有.csv文件 filter=lfs diff=lfs merge=lfs -text
