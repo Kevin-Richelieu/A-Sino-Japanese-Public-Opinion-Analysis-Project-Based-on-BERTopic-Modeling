@@ -5,6 +5,8 @@
 ```bash
 project_root/
 │
+├── mecab-ipadic-neologd
+│
 ├── data/
 │   ├── raw/
 │   │   └── data.txt
