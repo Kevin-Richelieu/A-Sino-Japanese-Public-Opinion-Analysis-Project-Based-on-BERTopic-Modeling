@@ -1,0 +1,11 @@
+bertopic==0.13.1
+transformers==4.40.0
+matplotlib==3.8.2
+pandas==2.2.2
+seaborn==0.13.0
+scikit-learn==1.4.2
+openai==1.35.0
+difflib==1.0.0
+sentence-transformers==2.6.0
+deepseek==0.1.10
+python-dotenv==1.0.0
